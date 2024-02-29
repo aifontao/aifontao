@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aifontao
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning 💻 Front-end development
-- 💞️ I’m looking to collaborate on front-end development projects
+- 💞️ I’m seeking new opportunities in front-end development
 - 📫 How to reach me -> anaisabelfontao@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
