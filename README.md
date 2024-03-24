@@ -4,7 +4,7 @@
 - 💞️ I’m seeking new opportunities in front-end development
 - 📫 How to reach me -> anaisabelfontao@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love tech gadgets!
 
 <!---
 aifontao/aifontao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
