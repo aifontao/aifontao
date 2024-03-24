@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aifontao
+- 👋 Hi, I’m Ana
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning 💻 Front-end development
 - 💞️ I’m seeking new opportunities in front-end development
