@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ana
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning 💻 Front-end development
+- 🌱 I’m currently learning 💻 computer science
 - 💞️ I’m seeking new opportunities in front-end development
 - 📫 How to reach me -> anaisabelfontao@gmail.com
 - 😄 Pronouns: she/her
