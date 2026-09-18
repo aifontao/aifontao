@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning 💻 computer science
 - 💞️ I’m seeking new opportunities in front-end development
-- 📫 How to reach me -> anaisabelfontao@gmail.com
+- 📫 How to reach me -> aifcodes@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love tech gadgets!
 
